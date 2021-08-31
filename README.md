@@ -27,10 +27,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nino-chan02/NinoWangy#requirements">Requirements</a> •
-  <a href="https://github.com/Nino-chan02/NinoWangy#instalasi">Installation</a> •
-  <a href="https://github.com/Nino-chan02/NinoWangy#features">Features</a> •
-  <a href="https://github.com/Nino-chan02/NinoWangy#thanks-to">Thanks to</a>
+  <a href="https://github.com/DzWangy/bot-dz#requirements">Requirements</a> •
+  <a href="https://github.com/DzWangy/bot-dz#instalasi">Installation</a> •
+  <a href="https://github.com/DzWangy/bot-dz#features">Features</a> •
+  <a href="https://github.com/DzWangy/bot-dz#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -50,7 +50,7 @@
 ## For Windows
 ```bash
 git clone https://github.com/DzWangy/bot-dz
-cd NinoWangy
+cd bot-dz
 npm install
 node main
 ```
@@ -97,7 +97,7 @@ webpmux -version
 ```
 
 # Features
-- Cek [disini](https://github.com/Nino-chan02/NinoWangyy/blob/main/message/help.js)
+- Cek [disini](https://github.com/DzWangy/bot-dz/blob/main/message/help.js)
 
 # MAKASIH LORT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
@@ -108,3 +108,4 @@ webpmux -version
 * [`Slavyan`](https://github.com/SlavyanDesu)
 * [`Galang`](https://github.com/Zobin33)
 * [`Franky`](https://github.com/Frankysolo)
+* [`Dz Official`](https://github.com/DzWangy)
