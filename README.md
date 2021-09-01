@@ -97,4 +97,4 @@ webpmux -version
 * [`MhankBarBar`](https://github.com/MhankBarBar)
 * [`Aqulzz`](https://github.com/zennn08)
 * [`Nino Chan`](https://github.com/Nino-chan02)
-* [`All Creator Bot`]
+* `All Creator Bot`
