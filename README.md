@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DzWangy"><img title="Author" src="https://img.shields.io/badge/Author-Marz-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/DzWangy"><img title="Author" src="https://img.shields.io/badge/Author-Doomz-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/DzWangy/followers"><img title="Followers" src="https://img.shields.io/github/followers/bot-dz?color=blue&style=flat-square"></a>
