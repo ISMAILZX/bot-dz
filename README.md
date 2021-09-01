@@ -97,7 +97,7 @@ webpmux -version
 ```
 
 # Features
-- Cek [disini](https://github.com/DzWangy/bot-dz/blob/main/message/help.js)
+- Cek [disini](https://github.com/DzWangy/bot-dz/Dzz.js)
 
 # MAKASIH LORT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
