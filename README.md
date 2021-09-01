@@ -1,18 +1,55 @@
-## Hi there, i'm Dz Official ðŸ‘‹
+## Hi there, i'm Doomz 👋
 
-<a href="https://github.com/DzWangy"><img src="https://cardivo.vercel.app/api?name=Dz Official&description=Hi, i'm DzBotz and i'm just a newbie programmer nice to meet you all ðŸ¤—&image=https://telegra.ph/file/09d23565eb7e9979c8a62.jpg&usqp=CAU&backgroundColor=%23ecf0f1&Youtube=DOOMZBOTZ&github=DzWangy&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+<a href="https://github.com/DzWangy"><img src="https://cardivo.vercel.app/api?name=Dz Official&description=Hi, i'm Doomz and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/09d23565eb7e9979c8a62.jpg&usqp=CAU&backgroundColor=%23ecf0f1&Youtube=DEGES&github=DzWangy&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+
 [<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/6288226487112)
+
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kuloruwet_/)
 
-### â„¹ &nbsp;Personal Stuffs
-- ðŸ’» I'm currently learning `JavaScriptBot` ðŸš€.
-- - ðŸ”­ I'm currently working on my side project.
+### ℹ &nbsp;Personal Stuffs
+
+- 💻 I'm currently learning `JavaScript` 🚀.
+
+- - 🔭 I'm currently working on my side project.
+
 - Languages: &nbsp;
+
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 - Frameworks: &nbsp;
+
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### âš™ &nbsp;GitHub Analytics
+### ⚙ &nbsp;GitHub Analytics
+
+---
+
+<p align="center">
+
+  <a href="https://github.com/DzWangy"><img src="https://github-readme-stats.vercel.app/api?username=DzWangy&theme=tokyonight&show_icons=true" /></a>
+
+  </p>
+
+<p align="center">
+
+  <a href="https://github.com/DzWangy"><img src="https://github-readme-streak-stats.herokuapp.com?user=DzWangy&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+
+  </p>
+
+<p align="center">
+
+  <a href="https://github.com/DzWangy"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DzWangy&theme=tokyonight&layout=compact" /></a>
+
+  </p>
+
+<p align="center">
+
+  <a href="https://github.com/DzWangy"><img src="https://github-profile-trophy.vercel.app/?username=DzWangy&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+
+  </p>
+
+  
+
 
 ---
 
