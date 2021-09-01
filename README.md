@@ -7,7 +7,7 @@
 >
 >
 
-<h3 align="center">Made with ❤️ By</h3>
+<h3 align="center">Thanks To</h3>
 <p align="center">
   <a href="https://github.com/DzWangy"><img src="https://avatars.githubusercontent.com/u/81684610?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
   <a href="https://github.com/Akkun3704"><img src="https://avatars.githubusercontent.com/u/75048902?s=400&v=4" height="128" width="128" /></a>
